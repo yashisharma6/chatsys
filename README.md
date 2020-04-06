@@ -5,14 +5,9 @@ Group 4 CyberSecurity Specialization Capstone Project
 ### What is this repository for? ###
 
 coursera
-NTL
 
-### How do I get set up? ###
-
-Ankit Kumar 
-Ahmed salama AbdEl-wahab 
-Ali Ahmed Mohamady 
-Mahmoud Matrawy 
+how did i set up
+by me
 
 ### Contribution guidelines ###
 
